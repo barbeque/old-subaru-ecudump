@@ -1,4 +1,4 @@
-Assuming SSM2 Subarus (future version may have SSM1 for pre-99)
+Assuming *SSM2 Subarus* (future version may have SSM1 for pre-99)
 
 ==Protocol examples==
 
