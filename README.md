@@ -1,3 +1,8 @@
+#Supported cars
+Ideally, anything with a JECS 93-pin ECU that supports Subaru Select Monitor (SSM1 or SSM2).
+
+Will primarily test against OBD2 cars for ease of acquisition of the cable and test parts.
+
 #TODO
  * [x] Devise some initial protocol details
  * [ ] Port to Go
